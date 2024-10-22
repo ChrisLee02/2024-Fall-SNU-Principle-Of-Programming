@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: C:\pp-assignment-1\src\main\scala\Main.scala:57:63 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m57 |[0m  [33mdef[0m [36miterationTail[0m([36mf[0m: [35mLong[0m => [35mLong[0m, [36mn[0m: [35mLong[0m, [36mx[0m: [35mLong[0m): [35mLong[0m = {}[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                                               ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                                          Found:    Unit[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                                          Required: Long[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
